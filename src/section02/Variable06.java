@@ -37,9 +37,9 @@ public class Variable06 {
 		boolean isContain = addr.contains("특별시");
 		// if 조건문
 		if(isContain) {
-			System.out.println("특별시민 입니다.");{
-				System.out.println("특별시민 아닙니다. ㅠ");
-			}
+			System.out.println("특별시민 입니다.");
+		} else {
+			System.out.println("특별시민 아닙니다. ㅠ");
 		}
 	}
 }

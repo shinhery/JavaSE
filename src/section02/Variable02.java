@@ -10,7 +10,6 @@ package section02;
  * 
  * 변수 초기화
  * 	변수를 사용하기 전에 값을 처음 할당하는 것을 의미한다.
- * 
  */
 
 public class Variable02 {

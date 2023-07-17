@@ -10,7 +10,6 @@ package section02;
  * 
  * Alt + Ctrl + 위/아래 방향키 : 줄복사
  * Alt + 위/아래 방향키 : 줄이동
- * 
  */
 
 public class Variable04 {

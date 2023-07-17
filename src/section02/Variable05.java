@@ -15,7 +15,6 @@ import java.math.BigDecimal;
  *  ±(1.m)*2^(e-127)
  *  부동소수점오차
  *  	정확한 실수표현 불가능 근사치 값으로 인해 생긴 오차
- * 
  */
 
 public class Variable05 {

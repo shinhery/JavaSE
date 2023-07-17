@@ -7,7 +7,6 @@ package section02;
  * 
  * 선언방법
  * 	boolean 변수명;
- * 
  */
 
 public class Variable01 {

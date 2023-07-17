@@ -10,7 +10,6 @@ package section02;
  * 		- 표현 범위가 더 작은 데이터형으로 변환하기
  * 		- 명시적으로 해야한다.
  * 		- 데이터 손실이 있을 수 있다.
- * 
  */
 
 public class Variable07 {
