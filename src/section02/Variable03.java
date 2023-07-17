@@ -8,5 +8,20 @@ package section02;
  *  
  */
 public class Variable03 {
+	public static void main(String[] args) {
+		// 정수형 변수 선언과 동시에 값 대입하기
+		byte nByte = 10;
+		short nShort = 100;
+		int nInt = 1000;
+		long nLong = 10000;
+		
+		System.out.println("byte 형: " + nByte); // 문자 + 숫자 => 문자
+		System.out.println("short 형: " + nShort);
+		System.out.println("int 형: " + nInt); 
+		System.out.println("long 형 :" + nLong); 
+		
+		nByte += 120; // nByte = nByte + 120;
+		System.out.println("byte overflow: " + nByte);
+	}
 
 }
