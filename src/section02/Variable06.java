@@ -38,7 +38,6 @@ public class Variable06 {
 		// if 조건문
 		if(isContain) {
 			System.out.println("특별시민 입니다.");{
-			} else {
 				System.out.println("특별시민 아닙니다. ㅠ");
 			}
 		}
