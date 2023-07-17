@@ -1,4 +1,5 @@
 package section02;
+
 /*
  * 3. 정수형
  * 	byte 	(1byte) : -128 ~ +127
@@ -7,6 +8,7 @@ package section02;
  * 	long	(8byte) : -9,223,372,036,854,775,808 ~ +9,223,372,036,854,775,807
  *  
  */
+
 public class Variable03 {
 	public static void main(String[] args) {
 		// 정수형 변수 선언과 동시에 값 대입하기

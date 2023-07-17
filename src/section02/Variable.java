@@ -1,4 +1,5 @@
 package section02;
+
 /*
  * 변수(Variable)
  * 값을 저장하기 위한 메모리 공간을 의미.
@@ -14,6 +15,7 @@ package section02;
  * 		문자형 - char
  * 		논리형 - boolean
  */
+
 public class Variable {
 	public static void main(String[] args) {
 		// 정수형 변수 선언하고 값 대입하기

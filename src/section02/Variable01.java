@@ -1,4 +1,5 @@
 package section02;
+
 /*
  * 1. 논리형(boolean)
  * true 또는 false 두가지 값을 가지는 기본 자료형
@@ -8,6 +9,7 @@ package section02;
  * 	boolean 변수명;
  * 
  */
+
 public class Variable01 {
 	public static void main(String[] arhs) {
 		// 논리형 변수 선언하기

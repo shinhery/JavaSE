@@ -1,4 +1,5 @@
 package section02;
+
 /*
  * 출력문
  * 	데이터를 화면에 출력하는 방법
@@ -17,6 +18,7 @@ package section02;
  *  %s : 문자열
  *  %c : 문자 
  */
+
 public class ConsolePrint {
 	public static void main(String[] args) {
 		System.out.print("Wellcom.");
