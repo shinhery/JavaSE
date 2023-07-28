@@ -1,4 +1,4 @@
-package Section02;
+package section02;
 
 import java.util.Scanner;
 
@@ -6,11 +6,11 @@ import java.util.Scanner;
  * Scanner
  * 사용자로부터 데이터를 읽기 위해 사용되는 클래스
  * Scanner 클래스를 사용하면 키보드로 텍스트나 숫자를 읽을 수 있다.
+ * 
  */
-
 public class ScannerEX {
 	public static void main(String[] args) {
-		Scanner scanner = new Scanner(System.in);
+		Scanner scanner	 = new Scanner(System.in);
 		String name, address; // 문자열 값을 담는 변수
 		int age; // 정수 값을 담는 변수
 		double weight; // 실수 값을 다마는 변수
